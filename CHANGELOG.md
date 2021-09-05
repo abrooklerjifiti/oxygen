@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## v1.20.2 (2021-09-05)
+
+#### :beetle: Bug Fix
+* Fix key usage in `utils.encrypt`.
+
 ## v1.20.1 (2021-08-06)
 
 #### :beetle: Bug Fix
